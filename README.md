@@ -3,7 +3,9 @@
 ## Maestro en Ciencias | Bioingeniero | Científico de Datos | Investigador en Metabolómica
 
 🔬 **Doctorado en Ciencias de la Vida**
+
 📊 **Análisis de Datos Ómicos y Desarrollo de Herramientas en Metabolómica**
+
 🎓 **Interés en la Docencia y la automatización de procesos**
 
 📃 **[Resume](https://github.com/JhordanOjeda/Jhordan/blob/main/Resume_JhordanOjeda_Español.pdf)**
@@ -48,7 +50,7 @@ Soy un investigador en formación con un fuerte enfoque en **análisis de datos 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JhordanOjeda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jhordan) 
 [![GitHub](https://img.shields.io/badge/GitHub-JhordanOjeda-black?style=flat&logo=github)](https://github.com/JhordanOjeda) 
 
-📩 **Correo**: jhordan.ojeda@uabc.edu.mx  
+📩 **Correo**: jhordan.ojeda@uabc.edu.mx | jhordan@cicese.edu.mx
 🌍 **Ubicación**: Ensenada, México
 
 ---
