@@ -5,7 +5,8 @@
 🔬 **Doctorado en Ciencias de la Vida**
 📊 **Análisis de Datos Ómicos y Desarrollo de Herramientas en Metabolómica**
 🎓 **Interés en la Docencia y la automatización de procesos**
-📃 **Resume**
+
+📃 **[Resume](https://github.com/JhordanOjeda/Jhordan/blob/main/Resume_JhordanOjeda_Español.pdf)**
 
 ---
 
@@ -32,11 +33,11 @@ Soy un investigador en formación con un fuerte enfoque en **análisis de datos 
 
 ### 📌 Proyectos Destacados
 
-🚀 **[Workflow de Análisis Metabolómico](https://github.com/JhordanOjeda/MS2-CICESE)**: Un pipeline automatizado para procesamiento de datos LC-MS [Proyecto privado].
+🚀 **[Workflow de Análisis Metabolómico](https://github.com/JhordanOjeda/MS2-CICESE)**[Proyecto privado]: Un pipeline automatizado para procesamiento de datos LC-MS.
 
 📊 **[Modelo Predictivo para Preferencia de Café](https://github.com/JhordanOjeda/Coffee)**: Algoritmo basado en Machine Learning para predecir preferencias de café.
 
-🌐 **[Plataforma Web para Visualización de Metabolomas del Territorio Mexicano](https://github.com/JhordanOjeda/metxico-project)**: Desarrollo de una herramienta web en para facilitar la visualización de datos metabolómicos de especies nativas mexicanas [En desarrollo].
+🌐 **[Plataforma Web para Visualización de Metabolomas del Territorio Mexicano](https://github.com/JhordanOjeda/metxico-project)**[En desarrollo]: Desarrollo de una herramienta web en para facilitar la visualización de datos metabolómicos de especies nativas mexicanas.
 
 ---
 ### 📜 Certificados
